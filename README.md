@@ -11,10 +11,10 @@ Feel free to met [Loki :wolf:](https://www.instagram.com/loki.the.cute.husky/) <
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/?username=antoine-pous&show_icons=true&theme=blue-green&hide_border=true&hide_title=true&count_private=true"/>
+      <img src="https://github-readme-stats.vercel.app/api/?username=antoine-pous&show_icons=true&theme=blue-green&hide_title=true&count_private=true"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-pous&layout=compact&theme=blue-green&hide_border=true"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-pous&layout=compact&hide_border=true"/>
     </td>
   </tr>
 </table>
