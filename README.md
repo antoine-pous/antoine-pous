@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**antoine-pous/antoine-pous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Antoine POUS, a self-taught developer from France. I currently develop games, bots and many automatons. 
 
-Here are some ideas to get you started:
+I love take a part to open source projects and help developers to enhance their skills & codebase.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to met [Loki :wolf:](https://www.instagram.com/loki.the.cute.husky/) <!--and/or [support me](https://github.com/sponsors/antoine-pous)-->
+
+---
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/?username=antoine-pous&show_icons=true&hide_border=true&hide_title=true&count_private=true"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-pous&layout=compact&hide_border=true"/>
+    </td>
+  </tr>
+</table>
