@@ -1,11 +1,11 @@
 <h2>Hi there 👋</h2>
 <p>
   My name is Antoine POUS, a self-taught developer from
-  <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lille, France</b>. I currently develop
+  <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lille, France</b>. I'm currently developing
   games, bots and automatons.
 
-  I love discovering new technologies/stuff, taking part to open source projects and help developers to enhance their
-  skills & codebase.
+  I love discovering new technologies/stuff, taking part to open source projects and helping developers to enhance their
+  skills and codebase.
 </p>
 <h3>Thing I code with</h3>
 <p>
@@ -76,7 +76,7 @@
 <p align="center">
   This <i>README</i> file is automatically updated <b>every 3 hours</b> using GitHub actions by my bot <a href="https://github.com/d-a-r-y-l"><b>D.A.R.Y.L</b></a>!
   </br>
-  Last update: Fri, 04 Dec 2020 22:29:52 GMT
+  Last update: Fri, 04 Dec 2020 22:35:02 GMT
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/antoine-pous" target="_blank">
