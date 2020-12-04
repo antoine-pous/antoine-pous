@@ -1,0 +1,45 @@
+name: README build
+
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      NODE_ENV: development
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: setup node
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: '14.15.1'
+      - name: Install dependencies
+        run: |
+          yarn policies set-version '1.22.10'
+          yarn install
+      - name: Generate README file
+        env:
+          MUSTACHE_DIR: ${{ secrets.MUSTACHE_DIR }}
+          ARTICLES_LIMIT: ${{ secrets.ARTICLES_LIMIT }}
+        run: node_modules/.bin/ts-node src/index.ts
+      - name: Export current date
+        id: date
+        run: echo "name=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+      - name: ls
+        run: ls -la
+      - name: Push new README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name ${{ secrets.BOT_USERNAME }}
+          git config --global user.email ${{ secrets.BOT_EMAIL }}
+          git add .
+          git commit README.md -m "Automatic update"
+          git push origin main
