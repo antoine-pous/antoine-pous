@@ -26,6 +26,5 @@ export const getLatestMediumArticles = async (limit: number): Promise<string> =>
     l--
   }
 
-  console.log(items)
   return items
 }
