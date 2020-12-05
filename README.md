@@ -20,10 +20,12 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/>
   <img alt="OVHCloud" src="https://img.shields.io/badge/-OVHCloud-123F6D?style=flat-square&logo=ovh&logoColor=white"/>
   <img alt="GitHub actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+  <img alt="Travis CI" src="https://img.shields.io/badge/-Travis_CI-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white"/>
   <img alt="Yarn" src="https://img.shields.io/badge/-YARN-25799F?style=flat-square&logo=yarn&logoColor=white"/>
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
   <img alt="IronMQ" src="https://img.shields.io/badge/-IronMQ-3E74BC?style=flat-square&logo=ironmq&logoColor=white"/>
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -33,6 +35,7 @@
   <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
   <img alt="RxJs" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-45b8d8?style=flat-square&logo=vue.js&logoColor=white"/>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"/>
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
@@ -40,7 +43,11 @@
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+  <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white"/>
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
   <img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white"/>
 </p>
@@ -76,7 +83,7 @@
 <p align="center">
   This <i>README</i> file is automatically updated <b>every 3 hours</b> using GitHub actions by my bot <a href="https://github.com/d-a-r-y-l"><b>D.A.R.Y.L</b></a>!
   </br>
-  Last update: Sat, 05 Dec 2020 09:11:20 GMT
+  Last update: Sat, 05 Dec 2020 09:50:00 GMT
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/antoine-pous" target="_blank">
