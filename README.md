@@ -71,7 +71,7 @@
 </p>
 <h3>My latest publications on Medium</h3>
 <p>
-  - <a href="https://medium.com/@antoine-pous/completely-remove-snapd-and-avoid-its-installation-from-apt-packages-b32a7ed7cbf8?source=rss-9c69a8989fc6------2">Completely remove Snapd and avoid it’s installation from apt packages</a><br />- <a href="https://medium.com/@antoine-pous/discovery-a-space-game-story-act-2-a874b2f08d3b?source=rss-9c69a8989fc6------2">Discovery, a space game story act 2</a><br />- <a href="https://medium.com/@antoine-pous/discovery-game-hosting-367114e06afe?source=rss-9c69a8989fc6------2">Discovery, a game story act 1</a><br />
+  - <a href="https://antoine-pous.medium.com/completely-remove-snapd-and-avoid-its-installation-from-apt-packages-b32a7ed7cbf8?source=rss-9c69a8989fc6------2">Completely remove Snapd and avoid it’s installation from apt packages</a><br />- <a href="https://antoine-pous.medium.com/discovery-a-space-game-story-act-2-a874b2f08d3b?source=rss-9c69a8989fc6------2">Discovery, a space game story act 2</a><br />- <a href="https://antoine-pous.medium.com/discovery-game-hosting-367114e06afe?source=rss-9c69a8989fc6------2">Discovery, a game story act 1</a><br />
   <i>If you like what i've wrote don't miss to drop a :clap:</i>
 </p>
 <h3>:wolf: Latest Loki's news</h3>
@@ -83,7 +83,7 @@
 <p align="center">
   This <i>README</i> file is automatically updated <b>every 3 hours</b> using GitHub actions by my bot <a href="https://github.com/d-a-r-y-l"><b>D.A.R.Y.L</b></a>!
   </br>
-  Last update: Fri, 19 Mar 2021 15:12:03 GMT
+  Last update: Fri, 19 Mar 2021 18:15:26 GMT
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/antoine-pous" target="_blank">
