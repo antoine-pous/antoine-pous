@@ -83,7 +83,7 @@
 <p align="center">
   This <i>README</i> file is automatically updated <b>every 3 hours</b> using GitHub actions by my bot <a href="https://github.com/d-a-r-y-l"><b>D.A.R.Y.L</b></a>!
   </br>
-  Last update: Fri, 28 May 2021 21:22:28 GMT
+  Last update: Sat, 29 May 2021 01:20:32 GMT
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/antoine-pous" target="_blank">
