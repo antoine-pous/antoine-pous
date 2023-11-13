@@ -6,6 +6,8 @@
 
   I love discovering new technologies/stuff, taking part to open source projects and helping developers to enhance their
   skills and codebase.
+
+  Since few years I became CTO. I strongly love this role!
 </p>
 <h3>Thing I code with</h3>
 <p>
@@ -72,20 +74,21 @@
 <h3>My latest publications on Medium</h3>
 <p>
   - <a href="https://antoine-pous.medium.com/completely-remove-snapd-and-avoid-its-installation-from-apt-packages-b32a7ed7cbf8?source=rss-9c69a8989fc6------2">Completely remove Snapd and avoid it’s installation from apt packages</a><br />- <a href="https://antoine-pous.medium.com/discovery-a-space-game-story-act-2-a874b2f08d3b?source=rss-9c69a8989fc6------2">Discovery, a space game story act 2</a><br />- <a href="https://antoine-pous.medium.com/discovery-game-hosting-367114e06afe?source=rss-9c69a8989fc6------2">Discovery, a game story act 1</a><br />
-  <i>If you like what i've wrote don't miss to drop a :clap:</i>
+  <i>If you like what I've written don't miss to drop a :clap:</i>
 </p>
-<h3>:wolf: Latest Loki's news</h3>
+<h3>:wolf: Get Loki and Yuki latest news</h3>
 <p>
-
-  <i><a href="https://www.instagram.com/loki.the.cute.husky/">Follow my awesome teammate @loki.the.cute.husky on Instagram!</a></i>
+  <i>
+    <a href="https://www.instagram.com/loki.the.cute.husky/">Follow my awesome teammate @loki.the.cute.husky on Instagram!</a>
+  </i>
 </p>
 <hr />
-<p align="center">
+<p style="text-align: center">
   This <i>README</i> file is automatically updated <b>every 3 hours</b> using GitHub actions by my bot <a href="https://github.com/d-a-r-y-l"><b>D.A.R.Y.L</b></a>!
   </br>
-  Last update: Mon, 13 Nov 2023 21:03:01 GMT
+  Last update: Mon, 13 Nov 2023 21:07:13 GMT
 </p>
-<p align="center">
+<p style="text-align: center">
   <a href="https://github.com/sponsors/antoine-pous" target="_blank">
     <img alt="Sponsor @antoine-pous" src="/public/sponsor_button.png" />
   </a>
