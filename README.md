@@ -79,14 +79,14 @@
 <h3>:wolf: Get Loki and Yuki latest news</h3>
 <p>
   <i>
-    <a href="https://www.instagram.com/loki.the.cute.husky/">Follow my awesome teammate @loki.the.cute.husky on Instagram!</a>
+    <a href="https://www.instagram.com/yukiandlokisadventures/">Follow Loki and Yuki adventures on Instagram!</a>
   </i>
 </p>
 <hr />
 <p style="text-align: center">
   This <i>README</i> file is automatically updated <b>every 3 hours</b> using GitHub actions by my bot <a href="https://github.com/d-a-r-y-l"><b>D.A.R.Y.L</b></a>!
   </br>
-  Last update: Mon, 13 Nov 2023 21:07:13 GMT
+  Last update: Mon, 13 Nov 2023 21:09:50 GMT
 </p>
 <p style="text-align: center">
   <a href="https://github.com/sponsors/antoine-pous" target="_blank">
